@@ -1,16 +1,25 @@
-# humsafar_p1
+# Humsafar Travel Planner App
 
-A new Flutter project.
+A Flutter-based travel app UI that showcases a modern, responsive frontend for discovering places, cities, mountains, and beaches in India.
+
+✨ Features
+Category-based browsing (Suggested, Cities, Mountains, Beach)
+Search and tag filtering
+Responsive design for different screen sizes
+Asset and network image support
+Clean, modern Flutter UI
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Clone the repo:
+   git clone https://github.com/Lucky-Yadav01/Humsafar-Travel-Planner-App.git
 
-A few resources to get you started if this is your first Flutter project:
+2. Install dependencies:
+   flutter pub get
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+3. Run the app:
+   flutter run
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📦 Note
+This project is frontend only (no backend or authentication).
+All images and data are static or from assets.
