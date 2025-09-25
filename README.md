@@ -3,6 +3,7 @@
 A Flutter-based travel app UI that showcases a modern, responsive frontend for discovering places, cities, mountains, and beaches in India.
 
 ✨ Features
+
 Category-based browsing (Suggested, Cities, Mountains, Beach)
 Search and tag filtering
 Responsive design for different screen sizes
